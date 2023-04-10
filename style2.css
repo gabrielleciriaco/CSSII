@@ -1,0 +1,49 @@
+ <!--referente a questão 2-->
+
+html{
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2016/05/31/00/19/little-cake-1426070_960_720.png');
+ }
+
+ body{
+    background-color: white;
+    display: inline-block;
+    margin-top: 50px;
+ }
+
+ h1{
+    color: rgb(241, 138, 219);
+ }
+
+ .terceiro ul{
+    list-style-type: none;
+ }
+
+.primeiro{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.segundo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.terceiro{
+    font-family: monospace;
+    font-size: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+
+.quarto{
+    font-family: fantasy;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: 400;
+}
+
