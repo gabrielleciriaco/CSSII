@@ -1,0 +1,29 @@
+ .primeiro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.segundo{
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.terceiro{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.quarto{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+.quinto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+
+.sexto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-small;
+}
