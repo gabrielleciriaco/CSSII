@@ -1,0 +1,57 @@
+<!--referente a questão 3-->
+
+html{
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2014/02/08/11/22/bun-261660_960_720.jpg');
+ }
+
+ body{
+    background-color: white;
+    display: inline-block;
+    margin-top: 50px;
+ }
+
+ h1{
+    color: rgb(238, 189, 84);
+ }
+
+ .terceiro ul{
+    list-style-type: none;
+ }
+
+ .terceiro ul li.comrisco{
+    text-decoration: line-through;
+ }
+
+.primeiro{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.segundo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.terceiro{
+    font-family: monospace;
+    font-size: normal;
+    font-weight: 500;
+}
+
+.quarto{
+    font-family: monospace;
+    font-size: normal;
+    font-weight: 500;
+}
+
+.preparo{
+    font-style: italic;
+    font-family: monospace;
+    
+}
+
